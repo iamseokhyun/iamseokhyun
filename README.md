@@ -6,6 +6,10 @@ I am an undergraduate student at [UNIST CSE](https://www.unist.ac.kr/, "unist li
 
 Contact information: iamseokhyun@gmail.com, [LinkedIn](https://www.linkedin.com/in/iamseokhyun/, "lab link") 
 
+<br/>
+<br/>
+<br/>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
@@ -24,5 +28,10 @@ Contact information: iamseokhyun@gmail.com, [LinkedIn](https://www.linkedin.com/
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
+
+<br/>
+<br/>
+<br/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseokhyun&show_icons=true&theme=default)
