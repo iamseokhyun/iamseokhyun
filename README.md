@@ -9,8 +9,6 @@ Contact information: iamseokhyun@gmail.com, [LinkedIn](https://www.linkedin.com/
 <br/>
 <br/>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -20,11 +18,9 @@ Contact information: iamseokhyun@gmail.com, [LinkedIn](https://www.linkedin.com/
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>&nbsp
-  
-  <br/>
-  <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseokhyun&show_icons=true&theme=dark)
-
 </p>
 
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseokhyun&show_icons=true&theme=dark)
