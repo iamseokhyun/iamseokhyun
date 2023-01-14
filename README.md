@@ -1,5 +1,6 @@
 # Seokhyun An
 
+**2nd-year undergraduate student at [UNIST CSE](https://cse.unist.ac.kr/eng/).**
 
 People grow through people. We inspire each other with our unique individuality, originality, passion, and creativity. So our lives are unpredictable and fantastic. 
 
