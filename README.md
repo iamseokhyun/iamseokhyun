@@ -4,7 +4,7 @@
 
 People grow through people. We inspire each other with our unique individuality, originality, passion, and creativity. So our lives are unpredictable and fantastic. 
 
-My goal is to fuel this virtuous circle through advanced deep learning research. I am interested in discovering and improving how large-scale language and multimodal models reason logically based on facts. My research goal is to propose novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
+My goal is to fuel this virtuous circle through advanced deep learning research. I am interested in discovering and improving how large-scale language or multimodal models reason logically based on facts. My research goal is to propose novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
 Currently, I am a research assistant at <em>Intelligent Control and Reasoning Lab</em>, advised by [Prof. Sungbin Lim](https://sites.google.com/view/sungbin/).
 
 Research Interests: Deep Learning, NLP, Commonsense Reasoning, Embodied AI, Neural Combinatorial Optimization
