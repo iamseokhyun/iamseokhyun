@@ -4,8 +4,9 @@
 
 Life is a journey, and we all need a little inspiration to keep us movin' and groovin'. That's why I believe that people are like a symphony - each individual instrument plays a different role, but when brought together, they create a harmonious and powerful sound. Life can be unpredictable, but that's what makes it exciting. I'm passionate about fueling that excitement by maximizing individual capabilities through advanced deep learning research.
 
-My goal is to fuel this virtuous circle through advanced deep learning research. I am interested in discovering and improving how large-scale language or multimodal models reason logically based on facts. My research goal is to propose novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
-Currently, I am a research assistant at <em>Intelligent Control and Reasoning Lab</em>, advised by [Prof. Sungbin Lim](https://sites.google.com/view/sungbin/).
+I am specially interested in discovering and improving how large-scale language or multimodal models reason logically based on facts. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
+
+Currently, I am a research assistant at <em>Intelligent Control and Reasoning Lab</em>, advised by [Prof. Sungbin Lim](https://sites.google.com/view/sungbin-lim/).
 
 Research Interests: Deep Learning, NLP, Commonsense Reasoning, Embodied AI, Neural Combinatorial Optimization
 
