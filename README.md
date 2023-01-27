@@ -2,7 +2,7 @@
 
 **2nd-year undergraduate student at [UNIST CSE](https://cse.unist.ac.kr/eng/).**
 
-Life is a journey, and we all need a little inspiration to keep us movin' and groovin'. That's why I believe that people are like a symphony - each individual instrument plays a different role, but when brought together, they create a harmonious and powerful sound. Life can be a wild ride, but that's what makes it exciting. I'm all about fueling that excitement by maximizing individual capabilities through advanced deep learning research.
+Life is a journey, and we all need a little inspiration to keep us movin' and groovin'. That's why I believe that people are like a symphony - each unique but together create a harmonious and powerful sound. Life can be a wild ride, but that's what makes it exciting. I'm all about fueling that excitement by maximizing individual capabilities through advanced deep learning research.
 
 I am specially interested in discovering and improving how large-scale language or multimodal models reason logically based on facts. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
 
