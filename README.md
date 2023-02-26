@@ -6,7 +6,7 @@ Life is a journey, and we all need a little inspiration to keep us movin' and gr
 
 I am specially interested in discovering and improving how large-scale language or multimodal models reason logically based on facts. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve meaningful information from large-scale data. 
 
-Currently, I am a research assistant at <em>Intelligent Control and Reasoning Lab</em>, advised by [Prof. Sungbin Lim](https://sites.google.com/view/sungbin-lim/).
+Currently, I am a research assistant at <em>Language & Intelligence Lab</em>, advised by [Prof. Hyounghun Kim](https://sites.google.com/view/language-intelligence-lab/home?authuser=0).
 
 Research Interests: Deep Learning, NLP, Commonsense Reasoning, Embodied AI, Neural Combinatorial Optimization
 
