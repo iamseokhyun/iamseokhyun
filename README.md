@@ -18,5 +18,3 @@ Contact information: [email](mailto:iamseokhyun@gmail.com)
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamseokhyun&show_icons=true&theme=dark)
