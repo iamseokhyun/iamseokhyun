@@ -5,13 +5,13 @@
 ![KakaoTalk_Photo_2023-03-06-15-10-29](https://user-images.githubusercontent.com/84222373/223039488-e60dbe06-4de3-41e7-977b-f8349dedc542.jpeg)
 *me at NIPS 2022, New Orleans, USA*
 
-Life is a journey, and we all need a little inspiration to keep us movin' and groovin'. That's why I believe that people are like a symphony - each unique but together create a powerful sound. I'm all about fueling that excitement by maximizing individual capabilities through advanced deep learning research.
+I'm all about maximizing individual capabilities through advanced deep learning research.
 
-Specially, I am interested in discovering and improving how large-scale language or multimodal models reason logically. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve and fuse meaningful information from large-scale data(both unimodal and multimodal).
+Specially, I am interested in discovering and improving how large language models reason logically. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve and fuse meaningful information from data.
 
-Currently(and fortunately!), I am a research assistant at <em>Language & Intelligence Lab</em>, advised by [Prof. Hyounghun Kim](https://sites.google.com/view/language-intelligence-lab/home?authuser=0). 
+Currently(and fortunately!), I am a research intern at <em>Language & Intelligence Lab</em>, advised by [Prof. Hyounghun Kim](https://sites.google.com/view/language-intelligence-lab/home?authuser=0). 
 
-Research Interests: LLM, NLP, Commonsense Reasoning, Multi-step reasoning
+Research Interests: NLP, LLMs, Reasoning, Alignment
 
 Additional Information: [CV](https://iamseokhyun.github.io/CV/CV_SeokhyunAn.pdf), [LinkedIn](https://www.linkedin.com/in/iamseokhyun/) 
 
