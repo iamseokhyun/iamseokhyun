@@ -5,9 +5,8 @@
 ![KakaoTalk_Photo_2023-03-06-15-10-29](https://user-images.githubusercontent.com/84222373/223039488-e60dbe06-4de3-41e7-977b-f8349dedc542.jpeg)
 *me at NIPS 2022, New Orleans, USA*
 
-I'm all about maximizing individual capabilities through advanced deep learning research.
-
-Specially, I am interested in discovering and improving how large language models reason logically. My research focus is on proposing novel training/inference mechanisms that allow them to efficiently and bias-robustly retrieve and fuse meaningful information from data.
+I am deeply passionate about empowering individuals through modern AI systems.
+Especially, my work is particularly focused on exploring the logical reasoning capability of large language models and aligning these systems with human values. 
 
 Currently(and fortunately!), I am a research intern at <em>Language & Intelligence Lab</em>, advised by [Prof. Hyounghun Kim](https://sites.google.com/view/language-intelligence-lab/home?authuser=0). 
 
