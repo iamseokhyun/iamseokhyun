@@ -6,7 +6,7 @@
 *me at NIPS 2022, New Orleans, USA*
 
 I am deeply passionate about empowering individuals through modern AI systems.
-Especially, my work is particularly focused on exploring the logical reasoning capability of large language models and aligning these systems with human values. 
+My work is particularly focused on exploring the logical reasoning capability of large language models and aligning these systems with human values. 
 
 Currently(and fortunately!), I am a research intern at <em>Language & Intelligence Lab</em>, advised by [Prof. Hyounghun Kim](https://sites.google.com/view/language-intelligence-lab/home?authuser=0). 
 
